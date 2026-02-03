@@ -1,0 +1,17 @@
+# Java - Ignore compiled bytecode
+*.class
+/bin/
+
+# IDE - Ignore VS Code settings (as requested)
+.vscode/
+
+# IDE - Ignore Eclipse/IntelliJ metadata
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# OS - Ignore system thumbnails and trash
+Thumbs.db
+.DS_Store
